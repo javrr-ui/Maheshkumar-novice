@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Information Technology as a full-time College Student.
 - 🌱 &nbsp; Learning more about Linux and various Web concepts.
 
-<h3> 🛠 &nbsp;Tech Stack(Current)</h3>
+<h3> 🛠 &nbsp;Tech Stack (Current)</h3>
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
  
