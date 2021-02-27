@@ -21,13 +21,37 @@
  
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
-<br/>
+<h3>My Projects:</h3>
 
+<h4>freeCodeCamp Projects:</h4>
+
+<ul>
+  <li><a href="https://github.com/Maheshkumar-novice/fcc-TributePage">Tribute Page</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/fcc-SurveyForm">Survey Form</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/fcc-ProductLanding">Product Landing</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/fcc-TechnicalDocumentation">Technical Documentation</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/fcc-Portfolio">Portfolio</a></li>
+</ul>
+
+<h4>The Odin Project Projects:</h4>
+
+<ul>
+  <li><a href="https://github.com/Maheshkumar-novice/TOP-google-homepage">Google Homepage</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/TOP-googleSearchResults">Google Search Results Page</a></li>
+</ul>
+
+<h4>Other Projects:</h4>
+
+<ul>
+  <li><a href="https://github.com/Maheshkumar-novice/Loruki">Loruki</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/style-conference">Style-Conference</a></li>
+</ul>
+
+<br/>
 <a href="https://github.com/maheshkumar-novice">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maheshkumar-novice&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-novice&theme=buefy&layout=compact" />
 </a>
 
 <br/>
-
 ⭐️ From [maheshkumar-novice](https://github.com/maheshkumar-novice)
