@@ -10,7 +10,6 @@
 
 <h3> 🛠 &nbsp;Tech Stack (Current: Grey - ToLearn: DarkBlue)</h3>
 
-<h4>Languages</h4>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Javascript](https://img.shields.io/badge/-Javascript-000033?style=flat&logo=javascript)
   ![Ruby](https://img.shields.io/badge/-Ruby-000033?style=flat&logo=ruby&logoColor=ff0000)
