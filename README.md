@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Information Technology as a full-time College Student.
 - 🌱 &nbsp; Learning more about Linux and various Web concepts.
 
-<h3> 🛠 &nbsp;Tech Stack (Current: Grey - ToLearn: DarkBlue - Basics: Black)</h3>
+<h3> 🛠 &nbsp;Tech Stack (Current: Grey - ToLearn: Blue - Basics: Black)</h3>
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Javascript](https://img.shields.io/badge/-Javascript-0000aa?style=flat&logo=javascript)
