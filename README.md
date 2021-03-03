@@ -8,10 +8,11 @@
 - 🎓 &nbsp; Studying Information Technology as a full-time College Student.
 - 🌱 &nbsp; Learning more about Linux and various Web concepts.
 
-<h3 color="blue"> 🛠 &nbsp;Tech Stack (Current)</h3>
+<h3 color="blue"> 🛠 &nbsp;Tech Stack (Current: Grey - ToLearn: DarkBlue)</h3>
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Javascript](https://img.shields.io/badge/-Javascript-000033?style=flat&logo=javascript)
+  ![Ruby](https://img.shields.io/badge/-Ruby-000033?style=flat&logo=ruby)
   
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
