@@ -10,7 +10,8 @@
 
 <h3> 🛠 &nbsp;Tech Stack (Current)</h3>
 
-  ![Python](https://img.shields.io/badge/-Python-000033?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Javascript](https://img.shields.io/badge/-Javascript-000033?style=flat&logo=javascript)
   
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
