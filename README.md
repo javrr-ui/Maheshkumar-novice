@@ -11,8 +11,8 @@
 <h3> 🛠 &nbsp;Tech Stack (Current: Grey - ToLearn: DarkBlue - Basics: Black)</h3>
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Javascript](https://img.shields.io/badge/-Javascript-000033?style=flat&logo=javascript)
-  ![Ruby](https://img.shields.io/badge/-Ruby-000033?style=flat&logo=ruby&logoColor=ff0000)
+  ![Javascript](https://img.shields.io/badge/-Javascript-0000aa?style=flat&logo=javascript)
+  ![Ruby](https://img.shields.io/badge/-Ruby-0000aa?style=flat&logo=ruby&logoColor=ff0000)
   
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=007ACC)
