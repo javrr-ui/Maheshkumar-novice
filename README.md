@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Information Technology as a full-time College Student.
 - 🌱 &nbsp; Learning more about Linux and various Web concepts.
 
-<h3> 🛠 &nbsp;Tech Stack (Current: Grey - ToLearn: DarkBlue)</h3>
+<h3> 🛠 &nbsp;Tech Stack (Current: Grey - ToLearn: DarkBlue - Basics: green)</h3>
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Javascript](https://img.shields.io/badge/-Javascript-000033?style=flat&logo=javascript)
@@ -20,9 +20,14 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
- 
+  
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Atom](https://img.shields.io/badge/-Atom-000033?style=flat&logo=atom&logoColor=00ff00)
+  
+  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=007acc)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=007acc)
+  ![Java](https://img.shields.io/badge/-java-000000?style=flat&logo=java&logoColor=e30000)
+ 
  
 <h3>My Projects:</h3>
 
