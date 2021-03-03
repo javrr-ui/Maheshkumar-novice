@@ -26,7 +26,7 @@
   
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=007acc)
   ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=007acc)
-  ![Java](https://img.shields.io/badge/-java-000000?style=flat&logo=Java&logoColor=e30000)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=e30000)
  
  
 <h3>My Projects:</h3>
