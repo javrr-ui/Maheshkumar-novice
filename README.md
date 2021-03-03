@@ -22,7 +22,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
  
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Atom](https://img.shields.io/badge/-Atom-000033?style=flat&logo=atom)
+  ![Atom](https://img.shields.io/badge/-Atom-000033?style=flat&logo=atom&logoColor=00ff00)
  
 <h3>My Projects:</h3>
 
