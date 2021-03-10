@@ -54,6 +54,7 @@
 <ul>
   <li><a href="https://github.com/Maheshkumar-novice/Loruki">Loruki</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/style-conference">Style-Conference</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/my-style-stage">Style Stage</a></li>
 </ul>
 
 <br/>
