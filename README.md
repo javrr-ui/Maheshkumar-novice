@@ -42,7 +42,7 @@
   <li><a href="https://github.com/Maheshkumar-novice/TOP-google-homepage">Google Homepage</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-googleSearchResults">Google Search Results Page</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-RockPaperScissors">Rock Paper Scissors</a></li>
-  <li><a href="https://github.com/Maheshkumar-novice/drumKit">Drum Kit</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/TOP-drumKit">Drum Kit</a></li>
 </ul>
 
 <h4>Other Projects:</h4>
