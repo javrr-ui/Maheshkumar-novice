@@ -56,7 +56,9 @@
 <br/>
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Maheshkumar-novice&count_private=true&bg_color=60,CB218E,6617CB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=TRUE)
+<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-novice&theme=buefy&layout=compact)
+<br/>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Maheshkumar-novice&theme=radical)
 
 <br/>
