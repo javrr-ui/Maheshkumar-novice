@@ -58,9 +58,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Maheshkumar-novice&count_private=false&theme=radical" width="100%" height="250em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-novice&theme=radical&layout=compact" width="100%" height="250em"/>
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=Maheshkumar-novice&theme=radical" width="100%" height="250em"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshkumar-novice&repo=TOP-RockPaperScissors&theme=radical" width="90%" height="250em"/>
+<a href="https://github.com/Maheshkumar-novice/TOP-RockPaperScissors">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshkumar-novice&repo=TOP-RockPaperScissors&theme=radical" align="right" width="50%"/>
+</a>
+<a href="https://github.com/Maheshkumar-novice/TOP-RockPaperScissors">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshkumar-novice&repo=TOP-RockPaperScissors&theme=radical" align="left" width="50%"/>
+</a>
 
 <br/>
 
 
-<a href="https://github.com/Maheshkumar-novice/TOP-RockPaperScissors"></a>
+
