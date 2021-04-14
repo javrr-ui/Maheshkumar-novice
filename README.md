@@ -62,4 +62,6 @@
 <br/>
 
 
-
+<a href="https://github.com/Maheshkumar-novice/TOP-RockPaperScissors">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maheshkumar-novice&repo=TOP-RockPaperScissors&theme=radical" />
+</a>
