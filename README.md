@@ -55,8 +55,13 @@
 
 <br/>
 <a href="https://github.com/maheshkumar-novice">
-  <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api?username=maheshkumar-novice&theme=buefy&show_icons=true" />
-  <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-novice&theme=buefy&layout=compact" />
+ 
+  
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Maheshkumar-novice&count_private=true&bg_color=60,CB218E,6617CB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=TRUE)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-novice&theme=buefy&layout=compact)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Maheshkumar-novice&theme=radical)
+
 </a>
 
 <br/>
