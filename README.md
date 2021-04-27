@@ -62,7 +62,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=Maheshkumar-novice&count_private=true&theme=radical" width="100%" height="200em"/>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=maheshkumar-novice&theme=radical&no-frame=true&margin-w=50" />
+   <img src="https://github-profile-trophy.vercel.app/?username=maheshkumar-novice&theme=flat&no-frame=true&margin-w=30" />
  <hr />
 </div>
 
