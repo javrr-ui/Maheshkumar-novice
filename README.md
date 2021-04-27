@@ -25,6 +25,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=00ff00)
   
+  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <h3>My Projects:</h3>
 
 <h4>freeCodeCamp Projects:</h4>
