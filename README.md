@@ -46,6 +46,8 @@
   <li><a href="https://github.com/Maheshkumar-novice/TOP-RockPaperScissors">Rock Paper Scissors</a></li>
 </ul>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <h4>Other Projects:</h4>
 
 <ul>
