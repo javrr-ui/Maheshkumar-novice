@@ -3,7 +3,7 @@
 
 <h2> Hey there! I'm Maheshkumar.</h2>
 
-<h3>Visitor Count From 29 Apr 2021 7.40 pm IST<h3>
+<h3>Visit Count From 29 Apr 2021 7.40 pm IST<h3>
   
 ![Visitor Count](https://profile-counter.glitch.me/maheshkumar-novice/count.svg)
 
