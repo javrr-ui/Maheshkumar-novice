@@ -52,18 +52,27 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h4>Other Projects:</h4>
-
+<h4>JS30 Projects: </h4>
 <ul>
-  <li><a href="https://github.com/Maheshkumar-novice/Loruki">Loruki</a></li>
-  <li><a href="https://github.com/Maheshkumar-novice/style-conference">Style-Conference</a></li>
-  <li><a href="https://github.com/Maheshkumar-novice/my-style-stage">Style Stage</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-drumKit">Drum Kit</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-Clock">Clock</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-Variables">Variables</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-dancingFlexImages">Dancing Flex Images</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-CanvasFun">Canvas Fun</a></li>
-  <li><a href="https://github.com/Maheshkumar-novice/TOP-HoldShiftAndCheck">HoldShiftAndCheckCheckBoxes</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/TOP-HoldShiftAndCheck">Hold Shift And Check CheckBoxes</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/TOP-CustomVideoPlayer">Custom Video Player</a></li>
+ </ul>
+ 
+<h4>StyleStage Showcase Project: </h4>
+<ul>
+   <li><a href="https://github.com/Maheshkumar-novice/my-style-stage">Solid State</a></li>
+ </ul>
+
+<h4>Other Projects:</h4>
+
+<ul>
+  <li><a href="https://github.com/Maheshkumar-novice/Loruki">Loruki</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/style-conference">Style-Conference</a></li>
 </ul>
 
 <br/>
