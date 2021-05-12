@@ -73,8 +73,11 @@
 <h4>Other Projects:</h4>
 
 <ul>
-  <li><a href="https://github.com/Maheshkumar-novice/Loruki">Loruki</a></li>
-  <li><a href="https://github.com/Maheshkumar-novice/style-conference">Style-Conference</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/Loruki">Loruki - Traversy Media (Youtube)</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/style-conference">Style-Conference - learn.shayhowe.com/</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/NumberGuessingGTK">Shell - Number Guessing</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/Create_New_Repo_Using_API">Github New Repo - using API</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/pythonRegexLearning">Python Regex Projects</a></li>
 </ul>
 
 <br/>
