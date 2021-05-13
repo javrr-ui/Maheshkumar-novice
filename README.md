@@ -65,6 +65,7 @@
   <li><a href="https://github.com/Maheshkumar-novice/TOP-SlideInOnScroll">Slide In On Scroll</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-localStorage_eventDelegation">LocalStorage and Event Delegation</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-movingTextShadow">Moving Text Shadow</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/TOP-sortWithoutArticles">Sort Without Articles</a></li>
  </ul>
  
 <h4>StyleStage Showcase Project: </h4>
