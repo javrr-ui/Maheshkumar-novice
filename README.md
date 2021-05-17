@@ -67,6 +67,7 @@
   <li><a href="https://github.com/Maheshkumar-novice/TOP-movingTextShadow">Moving Text Shadow</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-sortWithoutArticles">Sort Without Articles</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-WebCamFun">WebCam Fun</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/TOP-SpeechRecognition">Speech Recognition</a></li>
  </ul>
  
 <h4>StyleStage Showcase Project: </h4>
