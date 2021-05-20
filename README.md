@@ -71,6 +71,7 @@
   <li><a href="https://github.com/Maheshkumar-novice/TOP-SpeechRecognition">Speech Recognition</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-FollowAlongLinkHighlighter">Follow Along Link Highlighter</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-SpeechSynthesis">Speech Synthesis</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/TOP-StickyNav">Sticky Nav</a></li>
  </ul>
  
 <h4>StyleStage Showcase Project: </h4>
