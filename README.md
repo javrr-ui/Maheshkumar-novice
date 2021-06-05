@@ -73,6 +73,7 @@
   <li><a href="https://github.com/Maheshkumar-novice/TOP-SpeechSynthesis">Speech Synthesis</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-StickyNav">Sticky Nav</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-dropdown">Dropdown</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/TOP-ClickandScroll">Click and Scroll</a></li>
  </ul>
  
 <h4>StyleStage Showcase Project: </h4>
