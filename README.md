@@ -77,6 +77,7 @@
   <li><a href="https://github.com/Maheshkumar-novice/TOP-videoSpeedController">Video Speed Controller</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-Ajax">Ajax</a></li>
   <li><a href="https://github.com/Maheshkumar-novice/TOP-countdownTimer">Timer</a></li>
+  <li><a href="https://github.com/Maheshkumar-novice/TOP-WhacAMole">Whac A Mole</a></li>
  </ul>
  
 <h4>StyleStage Showcase Project: </h4>
