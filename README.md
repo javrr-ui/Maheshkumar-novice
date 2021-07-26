@@ -18,8 +18,8 @@ Learning **Full-Stack Web Development** at [The Odin Project](https://theodinpro
 <h4>I have basic knowledge and experience with the following, </h4>
 
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-  ![Python3](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Ruby2.7](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ff0000)
+  ![Python3](https://img.shields.io/badge/-Python3-333333?style=flat&logo=python)
+  ![Ruby2.7](https://img.shields.io/badge/-Ruby2.7-333333?style=flat&logo=ruby&logoColor=ff0000)
   
 <h4>I have intermediate knowledge and experience with the following, </h4>
 
@@ -28,7 +28,7 @@ Learning **Full-Stack Web Development** at [The Odin Project](https://theodinpro
   
 <h4>Tools I use regularly,</h4>
 
-  ![GNU/Linux(Ubuntu, Pop! OS)](https://img.shields.io/badge/-GNU/Linux-333333?style=flat&logo=Linux)
+  ![GNU/Linux(Ubuntu, Pop! OS)](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
