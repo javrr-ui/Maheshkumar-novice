@@ -32,7 +32,7 @@ Working for The Odin Project- **[Game Jam](https://itch.io/jam/top-jam-1)**.
 
   [My-Web-Journey](https://my-web-journey.netlify.app/)
   
- <h4>Below pinned ones are few of my projects</h4>
+ <h4>You can see few of my projects pinned below.</h4>
 
  
  
