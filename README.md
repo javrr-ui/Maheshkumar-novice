@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;Currently I'm, </h3>
 
 Learning **Full-Stack Web Development** at [The Odin Project](https://theodinproject.com).
-Currently, I am at the **Ruby Programming** part of the **Ruby on Rails** curriculum.
+Currently, I am at the **Ruby Programming** part of the **Ruby on Rails** curriculum doing **Tic Tac Toe** project with **Object Oriented Programming**.
 
 
 <h3> 🛠 &nbsp;Tech Stack:</h3>
