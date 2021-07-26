@@ -1,18 +1,11 @@
-<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  -->
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h2> Hey there! I'm Maheshkumar.</h2>
 
-<!-- <h3>Visit Count From 29 Apr 2021 7.40 pm IST<h3> -->
-  
-<!-- ![Visitor Count](https://profile-counter.glitch.me/maheshkumar-novice/count.svg) -->
-
 <h3> 👨🏻‍💻 &nbsp;Currently I'm, </h3>
 
 Learning **Full-Stack Web Development** at [The Odin Project](https://theodinproject.com).
-<!-- - 🤔 &nbsp; Learning **Full-stack web development** part-time via [The Odin Project](https://theodinproject.com). -->
-<!-- - 🎓 &nbsp; Studying **Information Technology** as a full-time College Student. -->
-<!-- - 🌱 &nbsp; Learning more about **Linux** and various Web concepts. -->
+
 
 <h3> 🛠 &nbsp;Tech Stack:</h3>
 <h4>I have basic knowledge and experience with the following, </h4>
@@ -32,6 +25,32 @@ Learning **Full-Stack Web Development** at [The Odin Project](https://theodinpro
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+    
+<h4>My Projects and Summary,</h4>
+  [My-Web-Journey](https://my-web-journey.netlify.app/)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  -->
+<!-- <h3>Visit Count From 29 Apr 2021 7.40 pm IST<h3> -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/maheshkumar-novice/count.svg) --> 
+<!-- - 🤔 &nbsp; Learning **Full-stack web development** part-time via [The Odin Project](https://theodinproject.com). -->
+<!-- - 🎓 &nbsp; Studying **Information Technology** as a full-time College Student. -->
+<!-- - 🌱 &nbsp; Learning more about **Linux** and various Web concepts. -->
 
 <!--   ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B&logoColor=0000ff) -->
 <!--   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) -->
@@ -105,7 +124,7 @@ Learning **Full-Stack Web Development** at [The Odin Project](https://theodinpro
   <li><a href="https://github.com/Maheshkumar-novice/pythonRegexLearning">Python Regex Projects</a></li>
 </ul>
  -->
-<br/>
+<!-- <br/> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Maheshkumar-novice&count_private=true&theme=radical&show_icons=TRUE" width="100%" height="200em"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-novice&theme=radical&layout=compact" width="100%" height="200em"/> -->
@@ -115,7 +134,7 @@ Learning **Full-Stack Web Development** at [The Odin Project](https://theodinpro
 <!--    <img src="https://github-profile-trophy.vercel.app/?username=maheshkumar-novice&theme=flat&no-frame=true&margin-w=30" /> -->
 <!-- </div> -->
 
-<br/>
+<!-- <br/> -->
 
 
 
