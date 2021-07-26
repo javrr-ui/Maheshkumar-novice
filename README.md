@@ -29,6 +29,8 @@ Learning **Full-Stack Web Development** at [The Odin Project](https://theodinpro
 <h4>My Projects and Summary, (Currently In Development)</h4>
 
   [My-Web-Journey](https://my-web-journey.netlify.app/)
+  
+ <h4>Below pinned ones are few of my projects</h4>
 
  
  
