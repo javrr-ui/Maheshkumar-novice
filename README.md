@@ -9,9 +9,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Learning Full-stack web development part-time via The Odin Project.
+- 🤔 &nbsp; Learning **Full-stack web development** part-time via [The Odin Project](https://theodinproject.com).
 - 🎓 &nbsp; Studying Information Technology as a full-time College Student.
-- 🌱 &nbsp; Learning more about Linux and various Web concepts.
+- 🌱 &nbsp; Learning more about **Linux** and various Web concepts.
 
 <h3> 🛠 &nbsp;Tech Stack:</h3>
   
