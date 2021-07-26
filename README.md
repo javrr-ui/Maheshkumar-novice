@@ -6,6 +6,7 @@
 
 Learning **Full-Stack Web Development** at **[The Odin Project](https://theodinproject.com)**.
 Currently, I am at the **[Ruby Programming](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming)** part of the **[Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)** curriculum doing **Tic Tac Toe** project with **Object Oriented Programming** concepts.
+Working for The Odin Project- **[Game Jam](https://itch.io/jam/top-jam-1)**.
 
 
 <h3> 🛠 &nbsp;Tech Stack:</h3>
