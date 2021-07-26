@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)  -->
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h2> Hey there! I'm Maheshkumar.</h2>
@@ -9,9 +9,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Learning **Full-stack web development** part-time via [The Odin Project](https://theodinproject.com).
-- 🎓 &nbsp; Studying Information Technology as a full-time College Student.
-- 🌱 &nbsp; Learning more about **Linux** and various Web concepts.
+Learning **Full-Stack Web Development** at [The Odin Project](https://theodinproject.com).
+<!-- - 🤔 &nbsp; Learning **Full-stack web development** part-time via [The Odin Project](https://theodinproject.com). -->
+<!-- - 🎓 &nbsp; Studying **Information Technology** as a full-time College Student. -->
+<!-- - 🌱 &nbsp; Learning more about **Linux** and various Web concepts. -->
 
 <h3> 🛠 &nbsp;Tech Stack:</h3>
   
@@ -22,6 +23,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ff0000)
   
+  ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-333333?style=flat&logo=Linux)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
