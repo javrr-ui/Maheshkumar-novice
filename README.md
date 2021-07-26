@@ -27,6 +27,7 @@ Learning **Full-Stack Web Development** at [The Odin Project](https://theodinpro
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=007ACC)
   
 <h4>Tools</h4>
+
   ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-333333?style=flat&logo=Linux)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
