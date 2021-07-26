@@ -15,14 +15,18 @@ Learning **Full-Stack Web Development** at [The Odin Project](https://theodinpro
 <!-- - 🌱 &nbsp; Learning more about **Linux** and various Web concepts. -->
 
 <h3> 🛠 &nbsp;Tech Stack:</h3>
-  
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=007ACC)
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+<h4>Basics</h4>
 
+  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ff0000)
   
+<h4>Intermediate</h4>
+
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=007ACC)
+  
+<h4>Tools</h4>
   ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-333333?style=flat&logo=Linux)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
