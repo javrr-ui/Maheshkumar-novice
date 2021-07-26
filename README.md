@@ -7,7 +7,7 @@
   
 <!-- ![Visitor Count](https://profile-counter.glitch.me/maheshkumar-novice/count.svg) -->
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;Currently I'm, </h3>
 
 Learning **Full-Stack Web Development** at [The Odin Project](https://theodinproject.com).
 <!-- - 🤔 &nbsp; Learning **Full-stack web development** part-time via [The Odin Project](https://theodinproject.com). -->
