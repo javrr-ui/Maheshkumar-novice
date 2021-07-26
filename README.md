@@ -30,7 +30,7 @@
 <!--   ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-333333?style=flat&logo=Linux) -->
 <!--   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=00ff00) -->
   
-  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!--   <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 <h3>My Projects:</h3>
 
 <h4>freeCodeCamp Projects:</h4>
@@ -53,7 +53,7 @@
   <li><a href="https://github.com/Maheshkumar-novice/TOP-Calculator">Calculator</a></li>
 </ul>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
 <h4>JS30 Projects: </h4>
 <ul>
