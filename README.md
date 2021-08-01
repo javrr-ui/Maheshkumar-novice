@@ -13,8 +13,8 @@ Working for The Odin Project- **[Game Jam](https://itch.io/jam/top-jam-1)**.
 <h4>I have basic knowledge and experience with the following, </h4>
 
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-  ![Python3](https://img.shields.io/badge/-Python3-333333?style=flat&logo=python)
-  ![Ruby2.7](https://img.shields.io/badge/-Ruby2.7-333333?style=flat&logo=ruby&logoColor=ff0000)
+  ![Python3](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Ruby2.7](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ff0000)
   
 <h4>I have intermediate knowledge and experience with the following, </h4>
 
