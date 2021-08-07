@@ -9,19 +9,20 @@ Currently, I am at the **[Ruby Programming](https://www.theodinproject.com/paths
 Working for The Odin Project- **[Game Jam](https://itch.io/jam/top-jam-1)**.
 
 
-<h3> 🛠 &nbsp;Tech Stack:</h3>
-<h4>I have basic knowledge and experience with the following, </h4>
+<!-- <h3> 🛠 &nbsp;Tech Stack:</h3> -->
+<h3> 🛠 &nbsp;Languages & Tools:</h3>
+<!-- <h4>I have basic knowledge and experience with the following, </h4> -->
 
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
   ![Python3](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Ruby2.7](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ff0000)
   
-<h4>I have intermediate knowledge and experience with the following, </h4>
+<!-- <h4>I have intermediate knowledge and experience with the following, </h4> -->
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=007ACC)
   
-<h4>Tools I use regularly,</h4>
+<!-- <h4>Tools I use regularly,</h4> -->
 
   ![GNU/Linux(Ubuntu, Pop! OS)](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
