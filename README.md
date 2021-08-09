@@ -27,8 +27,8 @@ Currently, I am at the **[Ruby Programming](https://www.theodinproject.com/paths
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshkumar-novice&theme=radical&layout=compact"  align="right"  height="200em" width="500em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-novice&theme=radical&layout=compact" height="200em" width="440em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshkumar-novice&theme=radical&layout=compact"  align="right"  height="200em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-novice&theme=radical&layout=compact" height="200em"/>
     
 <br/>
 <br/>
