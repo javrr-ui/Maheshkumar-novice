@@ -32,7 +32,7 @@ Currently, I am at the **[Ruby Programming](https://www.theodinproject.com/paths
     
 <h4>My Projects and Summary, (Currently In Development)</h4>
 
-  [My-Web-Journey](https://my-web-journey.netlify.app/)
+  **[My-Web-Journey](https://my-web-journey.netlify.app/)**
   
  <h4>You can see few of my projects pinned below.</h4>
 
