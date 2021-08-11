@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;Currently I'm, </h3>
 
 Learning **Full-Stack Web Development** at **[The Odin Project](https://theodinproject.com)**.
-Currently, I am at the **[Ruby Programming](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming)** part of the **[Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)** curriculum learning ![this](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/files-and-serialization-ruby-programming) lesson.
+Currently, I am at the **[Ruby Programming](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming)** part of the **[Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)** curriculum learning [this](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/files-and-serialization-ruby-programming) lesson.
 
 
 <!-- <h3> 🛠 &nbsp;Tech Stack:</h3> -->
