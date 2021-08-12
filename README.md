@@ -17,7 +17,7 @@ Currently, I am at the **[Ruby Programming](https://www.theodinproject.com/paths
 <!--   ![Ruby2.7](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ff0000) -->
 
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python3](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+  ![Python3](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
   ![Ruby2.7](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   
 <!-- <h4>I have intermediate knowledge and experience with the following, </h4> -->
