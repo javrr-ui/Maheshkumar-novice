@@ -12,20 +12,32 @@ Currently, I am at the **[Ruby Programming](https://www.theodinproject.com/paths
 <h3> 🛠 &nbsp;Languages & Tools:</h3>
 <!-- <h4>I have basic knowledge and experience with the following, </h4> -->
 
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-  ![Python3](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Ruby2.7](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ff0000)
+<!--   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript) -->
+<!--   ![Python3](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) -->
+<!--   ![Ruby2.7](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ff0000) -->
+
+  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python3](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+  ![Ruby2.7](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   
 <!-- <h4>I have intermediate knowledge and experience with the following, </h4> -->
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=007ACC)
+<!--   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) -->
+<!--   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=007ACC) -->
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   
 <!-- <h4>Tools I use regularly,</h4> -->
-  ![GNU/Linux(Ubuntu, Pop! OS)](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+<!--   ![GNU/Linux(Ubuntu, Pop! OS)](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+ 
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshkumar-novice&theme=radical&layout=compact" height="200em" width="400em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-novice&theme=radical&layout=compact" height="200em" width="400em"/>
