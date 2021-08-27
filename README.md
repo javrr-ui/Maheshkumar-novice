@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;Currently I'm, </h3>
 
 - Learning **Full-Stack Web Development** at **[The Odin Project](https://theodinproject.com)**.
-- Currently at the **[Event Manager](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/event-manager-ruby-programming)** lesson in the **[Ruby Programming](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming)** part of the **[Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)** curriculum.
+- Currently at the **[Hangman](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/file-i-o-and-serialization-ruby-programming)** lesson in the **[Ruby Programming](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming)** part of the **[Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)** curriculum.
 
 
 <!-- <h3> 🛠 &nbsp;Tech Stack:</h3> -->
